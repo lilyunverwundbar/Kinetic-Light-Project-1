@@ -1,5 +1,3 @@
- // vibrator Grove connected to digital pin 9
-
 void setup()  {
     pinMode(8,OUTPUT);
     pinMode( 9,OUTPUT );
